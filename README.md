@@ -13,7 +13,7 @@ SH-RE and SH-SY: http://www.cs.cf.ac.uk/shaperetrieval/shrec14/
 
 FAUST: http://faust.is.tue.mpg.de/overview
 
-HPRD:
+HPRD: Link: https://pan.baidu.com/s/177328DDAuvUjUV7vPp7tag  Password: gpta
 
 RAD: Link: https://pan.baidu.com/s/1uFDYtmxWq8bc3OtgCiqAuA  Password: 2lam 
 
